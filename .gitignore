@@ -1,0 +1,4 @@
+api_key
+.DS_STORE
+Gemfile.lock
+test.rb
